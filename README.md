@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matti Ullah Khan</h1>
-<h3 align="center">A passionate Developer in Javascript and R and researcher in Bioinformatic Analysis.</h3>
+<h1 align="center">Me Matti Ullah Khan</h1>
+<h3 align="center">Bioinformatician and a Web Developer in R Python and React with Research aspect in Bioinformatics Data Analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiullahkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mattiullahkhan" /> </p>
 
