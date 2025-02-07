@@ -3,19 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiullahkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mattiullahkhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattiullahkhan" alt="mattiullahkhan" /></a> </p>
-
-- 🔭 I’m currently working on [Phylogenetic Analysis](https://github.com/MattiUllahKhan/R-Phylgenetic-Tree-Code)
-
-- 🌱 I’m currently learning **R packages and R Integration into Websites**
-
-- 👯 I’m looking to collaborate on [Genome Assembly](https://github.com/MattiUllahKhan/Genome-Assembly)
-
 - 👨‍💻 All of my projects are available at [https://github.com/MattiUllahKhan](https://github.com/MattiUllahKhan)
 
-- 📝 I regularly write articles on [https://megaspace.online](https://megaspace.online)
+- 📝 I regularly write articles on [https://bioinformaticstools.news](https://bioinformaticstools.news)
 
-- 💬 Ask me about **Html , Css , javascript , Jquery , R packages (may consult)**
+- 💬 Ask me about **React , R packages, Python (may consult)**
 
 - 📫 How to reach me **mattiullahkhan860@gmail.com**
 
