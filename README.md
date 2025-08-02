@@ -1,5 +1,5 @@
-<h1 align="center">We can convert Living Organisms to faster and better compute than Computers - Yup it can be business as (Converting Computers to Humans is buisness with high compute(AI))</h1>
-<h3 align="center">Bioinformatician and a Web Developer in R Python and React with Research aspect in Bioinformatics Data Analysis.</h3>
+<h1 align="center">Bioinformatics Tools in Websites frame</h1>
+<h3 align="center">I work for making tools easy and innovate new from existing tools and new idea. Core work is web based but still prefer to make R pipeline to make them controlled by webistes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiullahkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mattiullahkhan" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 📝 I regularly write articles on [https://bioinformaticstools.news](https://bioinformaticstools.news)
 
-- 💬 Ask me about **React , R packages, Python (may consult)**
+- 💬 Ask me about **Next Js, React , R packages, Python (may consult)**
 
 - 📫 How to reach me **mattiullahkhan860@gmail.com**
 
-- 📄 Know about my experiences [https://bioinformaticstools.news](https://bioinformaticstools.news/user1/)
+- 📄 Know about my experiences [https://bioinformaticstools.news](https://bioinformaticstools.news/ownedby/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
