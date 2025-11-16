@@ -1,5 +1,5 @@
-<h1 align="center">Bioinformatics Tools in Websites frame</h1>
-<h3 align="center">I work for making tools easy and innovate new from existing tools and new idea. Core work is web based but still prefer to make R pipeline to make them controlled by webistes</h3>
+<h1 align="center">Bioinformatics Analysis and Development</h1>
+<h3 align="center">My love with combined bio and stats problems is crazy and bioinformatics solves it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiullahkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mattiullahkhan" /> </p>
 
